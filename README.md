@@ -1,5 +1,5 @@
 # MBLX-B2B-PVP-texture-pack-by-zata
-![image alt](https://github.com/juggernautkohaku-cell/miniblox-texture-pack/blob/070d43c6fa623331a287107b665874eb9bc07478/miniblox-logo.png)
+![image alt](https://github.com/juggernautkohaku-cell/MBLX-B2B-PVP-texture-pack-by-zata/blob/981b9f38d8f6e58d66751a8586f98c2f7667ecf8/MBLX_TP_icon.png)
 
 ⚠️**Attention**
 
