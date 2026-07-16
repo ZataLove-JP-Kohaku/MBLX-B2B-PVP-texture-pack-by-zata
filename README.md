@@ -3,4 +3,6 @@
 
 💡**Change Location**
 
+short Sword Texture
+
 💐**My deepest thanks to SmoothDude**
