@@ -77,7 +77,8 @@ const URL_MAP = {
   "||miniblox.*textures/particle/explosion_12.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_12.png",
   "||miniblox.*textures/particle/explosion_13.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_13.png",
   "||miniblox.*textures/particle/explosion_14.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_14.png",
-  "||miniblox.*textures/particle/explosion_15.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_15.png"
+  "||miniblox.*textures/particle/explosion_15.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/explosion_15.png",
+  "||miniblox.*textures/entity/chest/normal_double.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/chest/normal_double.png"
 };
 
 
