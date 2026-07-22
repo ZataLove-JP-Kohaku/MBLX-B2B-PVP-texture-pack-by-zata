@@ -57,7 +57,12 @@ const URL_MAP = {
   "||miniblox.*textures/particle/effect_6.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/effect_6.png",
   "||miniblox.*textures/particle/effect_7.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/effect_7.png",
   "||miniblox.*textures/environment/rain.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/environment/rain.png",
-  "||miniblox.*textures/environment/snow.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/environment/snow.png"
+  "||miniblox.*textures/environment/snow.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/environment/snow.png",
+  "||miniblox.*textures/particle/bubble.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/bubble.png",
+  "||miniblox.*textures/particle/flame.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/flame.png",
+  "||miniblox.*textures/particle/lava.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/lava.png",
+  "||miniblox.*textures/particle/note.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/note.png",
+  "||miniblox.*textures/particle/soul_fire_flame.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/soul_fire_flame.png"
 };
 
 
