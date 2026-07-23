@@ -91,7 +91,13 @@ const URL_MAP = {
   "||miniblox.*textures/entity/cat/siamese.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/siamese.png",
   "||miniblox.*textures/entity/cat/tabby.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/tabby.png",
   "||miniblox.*textures/entity/cat/white.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/white.png",
-  "||miniblox.*textures/entity/cat/cat_collar.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/cat_collar.png"
+  "||miniblox.*textures/entity/cat/cat_collar.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/cat/cat_collar.png",
+  "||miniblox.*textures/entity/villager/butcher.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/butcher.png",
+  "||miniblox.*textures/entity/villager/farmer.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/farmer.png",
+  "||miniblox.*textures/entity/villager/librarian.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/librarian.png",
+  "||miniblox.*textures/entity/villager/priest.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/priest.png",
+  "||miniblox.*textures/entity/villager/smith.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/smith.png",
+  "||miniblox.*textures/entity/villager/villager.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/villager.png"
 };
 
 
