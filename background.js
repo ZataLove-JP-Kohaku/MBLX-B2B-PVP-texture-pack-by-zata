@@ -12,6 +12,7 @@ const URL_MAP = {
   "||miniblox.*textures/entity/spider/spider.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/spider.png",
   "||miniblox.*textures/entity/zombie/zombie.png": "https://raw.githubusercontent.com/juggernautkohaku-cell/my-pvp-pack/refs/heads/main/entity/zombie.png",
   "||miniblox.*textures/entity/ghost/ghost.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/ghost.png",
+  "||miniblox.*textures/entity/ghost/ghost_shooting.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/entity/ghast/ghast_shooting.png",
   "||miniblox.*textures/entity/zombie_cowman/zombie_cowman.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/zombie_cowman.png",
   "||miniblox.*textures/entity/snowman/snowman.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/snowman.png",
   "||miniblox.*textures/entity/arrow.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/entity/arrow.png",
