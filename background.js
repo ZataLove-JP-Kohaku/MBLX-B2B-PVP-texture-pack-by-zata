@@ -98,7 +98,14 @@ const URL_MAP = {
   "||miniblox.*textures/entity/villager/librarian.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/librarian.png",
   "||miniblox.*textures/entity/villager/priest.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/priest.png",
   "||miniblox.*textures/entity/villager/smith.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/smith.png",
-  "||miniblox.*textures/entity/villager/villager.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/villager.png"
+  "||miniblox.*textures/entity/villager/villager.png": "https://raw.githubusercontent.com/ZataLove-JP-Kohaku/miniblox-texture-pack/refs/heads/main/texture/entity/villager/villager.png",
+  "||miniblox.*textures/particle/generic_1.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/generic_1.png",
+  "||miniblox.*textures/particle/generic_2.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/generic_2.png",
+  "||miniblox.*textures/particle/generic_3.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/generic_3.png",
+  "||miniblox.*textures/particle/generic_4.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/generic_4.png",
+  "||miniblox.*textures/particle/generic_5.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/generic_5.png",
+  "||miniblox.*textures/particle/generic_6.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/generic_6.png",
+  "||miniblox.*textures/particle/generic_7.png": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/1.21.5/assets/minecraft/textures/particle/generic_7.png"
 };
 
 
